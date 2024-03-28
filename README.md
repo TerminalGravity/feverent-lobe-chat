@@ -157,32 +157,10 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 [![][image-feat-agent]][docs-feat-agent]
 
-### `7` [Agent Market (GPTs)][docs-feat-agent]
-
-In LobeChat Agent Marketplace, creators can discover a vibrant and innovative community that brings together a multitude of well-designed agents,
-which not only play an important role in work scenarios but also offer great convenience in learning processes.
-Our marketplace is not just a showcase platform but also a collaborative space. Here, everyone can contribute their wisdom and share the agents they have developed.
-
-> \[!TIP]
->
-> By [🤖/🏪 Submit Agents][submit-agents-link], you can easily submit your agent creations to our platform.
-> Importantly, LobeChat has established a sophisticated automated internationalization (i18n) workflow,
-> capable of seamlessly translating your agent into multiple language versions.
-> This means that no matter what language your users speak, they can experience your agent without barriers.
-
-> \[!IMPORTANT]
->
-> We welcome all users to join this growing ecosystem and participate in the iteration and optimization of agents.
-> Together, we can create more interesting, practical, and innovative agents, further enriching the diversity and practicality of the agent offerings.
 
 <!-- AGENT LIST -->
 
-| Recent Submits                                                                                                                                                                                           | Description                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Girlfriend Subtext Expert](https://chat-preview.lobehub.com/market?agent=girlfriend-subtext)<br/><sup>By **[vayron](https://github.com/vayron)** on **2024-03-26**</sup>                                | Decipher the 'subtext' behind girls' words, sharp and witty, respond with strength! 🔥<br/>`girlfriend` `girls` `subtext` `fierce` `strong` `decipher`                                                                                  |
-| [Interview Question Refinement Assistant](https://chat-preview.lobehub.com/market?agent=question-extraction-assistant)<br/><sup>By **[couldnice](https://github.com/couldnice)** on **2024-03-26**</sup> | Interview question generation assistant, generates targeted interview questions based on article content and job descriptions.<br/>`interview-questions` `customized-service` `java-engineer` `data-collection` `interview-preparation` |
-| [Claim Analyzer](https://chat-preview.lobehub.com/market?agent=fact-checking)<br/><sup>By **[pedroespecial101](https://github.com/pedroespecial101)** on **2024-03-25**</sup>                            | Detailed truth analyzer (from <https://github.com/danielmiessler/fabric>)<br/>`https-github-com-danielmiessler-fabric`                                                                                                                  |
-| [Rap Lyric Master](https://chat-preview.lobehub.com/market?agent=rap-writer)<br/><sup>By **[aoocar](https://github.com/aoocar)** on **2024-03-25**</sup>                                                 | Match lyrics in the form of rap lyrics, and create rap lyrics according to the reference format<br/>`rap` `lyrics`                                                                                                                      |
+
 
 > 📊 Total agents: [<kbd>**220**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
